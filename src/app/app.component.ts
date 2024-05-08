@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { CommonModule, NgFor } from '@angular/common';
 import { Component } from '@angular/core';
 import { RouterModule, RouterOutlet } from '@angular/router';
@@ -24,6 +25,13 @@ import { RouterModule, RouterOutlet } from '@angular/router';
 import { TranslateModule, TranslateService } from '@ngx-translate/core';
 import { EditorModule } from '@tinymce/tinymce-angular';
 >>>>>>> 6e23558 (update)
+=======
+import { CommonModule, NgFor } from '@angular/common';
+import { Component } from '@angular/core';
+import { RouterModule, RouterOutlet } from '@angular/router';
+import { TranslateModule, TranslateService } from '@ngx-translate/core';
+import { EditorModule } from '@tinymce/tinymce-angular';
+>>>>>>> 9384f49 (s)
 
 @Component({
   selector: 'app-root',
@@ -31,8 +39,11 @@ import { EditorModule } from '@tinymce/tinymce-angular';
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 6e23558 (update)
+=======
+>>>>>>> 9384f49 (s)
   imports: [RouterOutlet, CommonModule, TranslateModule, EditorModule, RouterModule],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
@@ -65,6 +76,7 @@ export class AppComponent {
   }
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
   imports: [RouterOutlet],
@@ -108,3 +120,5 @@ export class AppComponent {
 >>>>>>> c1b7c1b (s)
 =======
 >>>>>>> 6e23558 (update)
+=======
+>>>>>>> 9384f49 (s)
