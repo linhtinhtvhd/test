@@ -23,17 +23,23 @@
     "@angular/ssr": "^17.3.4",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> c1b7c1b (s)
+=======
+>>>>>>> 6e23558 (update)
     "@ngx-translate/core": "^15.0.0",
     "@ngx-translate/http-loader": "^8.0.0",
     "@tinymce/tinymce-angular": "^7.0.0",
     "bootstrap": "^5.3.3",
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> f0c24a4 (sd)
 =======
 >>>>>>> c1b7c1b (s)
+=======
+>>>>>>> 6e23558 (update)
     "express": "^4.18.2",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
@@ -56,6 +62,7 @@
   }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 =======
 }
@@ -63,3 +70,6 @@
 =======
 }
 >>>>>>> c1b7c1b (s)
+=======
+}
+>>>>>>> 6e23558 (update)

@@ -27,6 +27,7 @@
             "styles": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
               "src/styles.css",
               "./node_modules/bootstrap/dist/css/bootstrap.min.css",
 =======
@@ -35,6 +36,10 @@
               "src/styles.css",
               "./node_modules/bootstrap/dist/css/bootstrap.min.css",
 >>>>>>> c1b7c1b (s)
+=======
+              "src/styles.css",
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
+>>>>>>> 6e23558 (update)
               "src/styles.css"
             ],
             "scripts": [],

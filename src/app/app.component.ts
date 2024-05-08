@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { CommonModule, NgFor } from '@angular/common';
 import { Component } from '@angular/core';
 import { RouterModule, RouterOutlet } from '@angular/router';
@@ -16,12 +17,22 @@ import { RouterModule, RouterOutlet } from '@angular/router';
 import { TranslateModule, TranslateService } from '@ngx-translate/core';
 import { EditorModule } from '@tinymce/tinymce-angular';
 >>>>>>> c1b7c1b (s)
+=======
+import { CommonModule, NgFor } from '@angular/common';
+import { Component } from '@angular/core';
+import { RouterModule, RouterOutlet } from '@angular/router';
+import { TranslateModule, TranslateService } from '@ngx-translate/core';
+import { EditorModule } from '@tinymce/tinymce-angular';
+>>>>>>> 6e23558 (update)
 
 @Component({
   selector: 'app-root',
   standalone: true,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 6e23558 (update)
   imports: [RouterOutlet, CommonModule, TranslateModule, EditorModule, RouterModule],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
@@ -54,6 +65,7 @@ export class AppComponent {
   }
 }
 
+<<<<<<< HEAD
 =======
   imports: [RouterOutlet],
 =======
@@ -94,3 +106,5 @@ export class AppComponent {
 =======
 
 >>>>>>> c1b7c1b (s)
+=======
+>>>>>>> 6e23558 (update)

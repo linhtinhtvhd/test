@@ -1,6 +1,7 @@
 import { Routes } from '@angular/router';
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { HomeComponent } from './component/home/home.component';
 
 export const routes: Routes = [
@@ -21,6 +22,10 @@ export const routes: Routes = [];
 =======
 import { HomeComponent } from './component/home/home.component';
 
+=======
+import { HomeComponent } from './component/home/home.component';
+
+>>>>>>> 6e23558 (update)
 export const routes: Routes = [
     {
         path: '',
@@ -32,4 +37,7 @@ export const routes: Routes = [
         ]
     }
 ];
+<<<<<<< HEAD
 >>>>>>> c1b7c1b (s)
+=======
+>>>>>>> 6e23558 (update)
